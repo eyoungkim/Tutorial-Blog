@@ -1,0 +1,23 @@
+---
+title: ""
+output: html_document
+---
+
+Welcome!
+
+I completed my Ph.D. in Political Science at the University of Pittsburgh in August 2022, specializing in Comparative Political Economy.  My research is in the comparative political economy of wealth inequality and representation, which may have a deeper impact than income inequality on politics and be passed down to future generations. 
+
+
+Please visit [my website](https://www.eunyoungkim.net/) for more about my research!
+
+I can be contacted at euk27@pitt.edu
+
+You can download my [CV](https://drive.google.com/file/d/1tuLjK6CTyyFEYVjEw9SEtVj0HYiJrEob/view?usp=share_link) here.
+
+
+
+
+
+
+
+

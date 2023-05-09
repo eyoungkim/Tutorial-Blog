@@ -1,0 +1,21 @@
+---
+title: "Blog"
+output: html_document
+---
+
+Wealth inequality is often associated with partisan polarization, a growing ideological gap between two parties. Yet, considering individual representatives motivated by reelection who need to win a majority vote, it is puzzling to see polarization when many people are becoming relatively poorer. To address this puzzle, my dissertation, “Housing Price Inequality and Polarization in Korea,” explores the effects of wealth inequality in housing price distribution on the policy preferences of voters and, in response, the behavior of politicians. The overarching argument in my dissertation is that what matters is different district conditions which are determined by housing price distribution. 
+
+
+
+The first chapter of my dissertation introduces the general political background of Korea. It discusses how housing prices have become the most crucial element affecting voters’ policy preferences and why related policies have been the central agenda of major parties in the country. The second chapter develops a novel theory on the relationship between the levels of housing price inequality and the strategic behavior of representatives. After reviewing the existing voting models, such as the median voter theorem and the directional voting theory, I contend that politicians’ policy preferences will depend on the types of issues that become salient in their district, which are determined by housing price inequality. Paying attention to different structures of inequality, in addition to the levels of inequality, I argue that when the structure of distribution is highly skewed such that a majority of the people is located around a certain low level of housing prices, economic issues become more salient in this district. This, in turn, will lead incumbents to focus on their districts’ preferences rather than the party’s central preferences. During campaigns in such a district, candidates will converge, taking similar campaign strategies to each other by appealing to the relatively poor voters. This chapter also describes how I constructed a fine-grained data set of housing prices in Korea between 2000 and 2016, covering one-third of households in Korea, and how the distributional patterns changed over the period.
+
+
+
+The following three chapters test the theory, both quantitatively and qualitatively. The third chapter explores my theory in the context of incumbents by investigating why some politicians follow their party’s position while others do not? Relying on roll-call votes between 2000 and 2012, I find that the more unequal the housing price distribution of a district is, the more likely its representative is to deviate from their party’s position. In the fourth chapter, I explore why some of the opposing-party candidates employ similar campaign strategies to their rivals while others differentiate from their opponents. I use the campaign brochures of over 400 candidates for the 2016 Korean General Election, which provides us with a unique opportunity to study the specific policy promises of both losers and winners. Using the structural topic modeling, I find that high inequality leads opposing candidates in a given district to behave similarly, promising targeted benefits as much as possible. Findings also suggest that conservative party members try not to violate their party’s conservative economic stance by avoiding issues such as “inequality” or “redistribution” while promising targeted benefits as much as the opposite candidate. The findings of this chapter have important implications for polarization, wealth inequality, and populist welfare rhetoric in a society of rising wealth inequality. 
+
+
+
+Chapter five presents a qualitative case study that explicates the theory by focusing on how changes in a district’s structure of housing price inequality over time are politically represented throughout different congressional terms. It provides detailed narration comparing two congressional districts that experienced political polarization and sharp changes in housing price distribution. To do this, I explore diverse resources, such as interviews, speeches, and written documents, to examine changes in the representatives’ behavior over time.
+
+
+
